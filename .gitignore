@@ -1,9 +1,9 @@
-Binaries
 DerivedDataCache
 Intermediate
 Saved
 .vscode
 .vs
+.vsconfig
 *.VC.db
 *.opensdf
 *.opendb
